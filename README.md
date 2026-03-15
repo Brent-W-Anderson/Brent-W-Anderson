@@ -78,10 +78,3 @@ Advanced 3D player controller built with **SolidJS, TypeScript, Three.js, Ammo.j
 - Modular full-stack architecture
 
 [View ESSENCE](https://github.com/Brent-W-Anderson/ESSENCE)
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/brent-anderson-1a2a7b1a3/)  
-[GitHub](https://github.com/Brent-W-Anderson)
